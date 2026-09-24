@@ -73,11 +73,8 @@ Lab1Web/
 
 **Screenshot struktur folder/coding:**
 
-> Simpan screenshot struktur folder dan file coding di repository, lalu
-> masukkan di bawah ini.
 
-![Screenshot Struktur
-Repository](screenshots/01-struktur-repository.png)
+![Struktur Repository](image/struktur-repository.png)
 
 ------------------------------------------------------------------------
 
